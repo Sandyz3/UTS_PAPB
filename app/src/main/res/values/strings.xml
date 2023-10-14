@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">testprototype</string>
+    <string name="tile_activity_login">LoginActivity</string>
+    <string name="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</string>
+    <string name="descbarbatos">
+        ETA DECEMBER 2023
+Warning: This product is made of resin, which is toxic if inhaled. Please wear a mask/respirator when sanding.
+ Original Designed by Whistles (LabZero)
+
+Upgraded Version on MG Gundam Barbatos Kit
+More Details compare to 1.0
+This is a Collector Set : Full Body Set + Weapon Expansion Pack
+Weapon Expansion Pack contain : 1 * Ultra Large Mace (40cm), 1*Long Sword (22cm), 2* Arm Rocket Launcher
+Product Details :
+1/100 Scale
+Conversion Kit
+Movable
+Yellow Resin
+Included : Colorful Booklet Instruction Manual, 2 * Water-Sliced Decals, 10* Different Hand Sets, Metal Rod, Plastic Rod
+Need ” Bandai MG1/100 Gundam Barbatos ” as Conversion Inner Frame.</string>
+    <array name="service">
+        <item>Select</item>
+        <item>Damaged (Rusak)</item>
+        <item>New (Baru)</item>
+        <item>Built (Sudah Dirakit)</item>
+        <item>Built and Painted (Sudah Dirakit dan Dicat)</item>
+        <item>Customized (Disesuaikan)</item>
+    </array>
+    <array name="type">
+        <item>Select</item>
+        <item>High Grade (HG)</item>
+        <item>Real Grade (RG)</item>
+        <item>Master Grade (MG):</item>
+        <item>Perfect Grade (PG)</item>
+        <item>Reborn-One Hundred (RE/100)</item>
+    </array>
+    <array name="payments">
+        <item>Select</item>
+        <item>Transfer</item>
+        <item>Scan</item>
+    </array>
+    <array name="payment1">
+        <item>Select</item>
+        <item>BNI</item>
+        <item>BCA</item>
+        <item>Mandiri</item>
+    </array>
+    <array name="payment2">
+        <item>Qris</item>
+    </array>
+
+
+</resources>

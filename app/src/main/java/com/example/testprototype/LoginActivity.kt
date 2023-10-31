@@ -20,7 +20,7 @@ class LoginActivity : AppCompatActivity() {
                 val usernameText = username.text.toString()
                 val password = password.text.toString()
                 if (checkCredentials(usernameText, password)) { // Check credentials
-                    val intent = Intent(this@LoginActivity, MainActivity::class.java)
+                    val intent = Intent(this@LoginActivity, MasterActivity::class.java)
                     intent.putExtra("usn", usernameText)
                     startActivity(intent)
                     finish()

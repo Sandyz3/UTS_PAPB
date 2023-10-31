@@ -1,7 +1,30 @@
 <resources>
     <string name="app_name">testprototype</string>
     <string name="tile_activity_login">LoginActivity</string>
-    <string name="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</string>
+    <string name="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+        ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+        ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+        dolore eu fugiat nulla pariatur.</string>
+    <array name="decs_item">
+        <item>Deskripsi 1 ANNKJ FVBBAUD BUIADBUBC AUHDU AFHDUAFAI UHUIDCHS NDYS JDGHJSD HSUDH dhqeu
+            dauid ar dqehdroqe qjdrqo9ed oadjoqd
+        </item>
+        <item>>Deskripsi 2 ANNKJ FVBBAUD BUIADBUBC AUHDU AFHDUAFAI UHUIDCHS NDYS JDGHJSD HSUDH dhqeu
+            dauid ar dqehdroqe qjdrqo9ed oadjoqd
+        </item>
+        <item>>Deskripsi 3 ANNKJ FVBBAUD BUIADBUBC AUHDU AFHDUAFAI UHUIDCHS NDYS JDGHJSD HSUDH dhqeu
+            dauid ar dqehdroqe qjdrqo9ed oadjoqd
+        </item>
+        <item>>Deskripsi 4 ANNKJ FVBBAUD BUIADBUBC AUHDU AFHDUAFAI UHUIDCHS NDYS JDGHJSD HSUDH dhqeu
+            dauid ar dqehdroqe qjdrqo9ed oadjoqd
+        </item>
+        <item>>Deskripsi 5 ANNKJ FVBBAUD BUIADBUBC AUHDU AFHDUAFAI UHUIDCHS NDYS JDGHJSD HSUDH dhqeu
+            dauid ar dqehdroqe qjdrqo9ed oadjoqd
+        </item>
+        <item>>Deskripsi 6 ANNKJ FVBBAUD BUIADBUBC AUHDU AFHDUAFAI UHUIDCHS NDYS JDGHJSD HSUDH dhqeu
+            dauid ar dqehdroqe qjdrqo9ed oadjoqd
+        </item>
+    </array>
     <string name="descbarbatos">
         ETA DECEMBER 2023
 Warning: This product is made of resin, which is toxic if inhaled. Please wear a mask/respirator when sanding.
@@ -48,6 +71,8 @@ Need ” Bandai MG1/100 Gundam Barbatos ” as Conversion Inner Frame.</string>
     <array name="payment2">
         <item>Qris</item>
     </array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 
 </resources>

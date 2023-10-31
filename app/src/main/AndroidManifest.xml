@@ -16,6 +16,12 @@
             android:name=".SummaryActivity"
             android:exported="false" />
         <activity
+            android:name=".MasterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".fragment_order"
+            android:exported="false" />
+        <activity
             android:name=".ConfirmActivity"
             android:exported="false" />
         <activity
